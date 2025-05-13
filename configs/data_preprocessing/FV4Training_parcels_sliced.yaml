@@ -1,0 +1,6 @@
+output_path: /home/rise/Synology2_FEMA_Data_labeling/XJH(backup)/DFine/FV4Training_parcels_sliced
+
+input_path: /home/rise/sdc2T/XJH/yolov5/FV4Training(parcels,sliced)
+train: train.txt
+val: val.txt
+test: test.txt
